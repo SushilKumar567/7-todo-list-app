@@ -1,4 +1,5 @@
 import "./App.css";
+import "./Media.css";
 import React, { useState } from "react";
 
 const App = () => {
